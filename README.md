@@ -1,16 +1,3 @@
-# Civitai Developer Docs
-
-Documentation for the Civitai platform
-
-## Table of Content
-
-- [Project Setup](#project-setup)
-  - [Install](#install)
-  - [Local Development](#local-development)
-  - [Build](#build)
-- [Docusaurus](#docsaurus)
-- [Contributing](#contributing)
-
 ## Project Setup
 
 ### Install
